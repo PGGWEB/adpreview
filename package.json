@@ -1,0 +1,13 @@
+{
+  "name": "ad-preview-app",
+  "version": "1.0.0",
+  "description": "Ad preview app for Google and Facebook Ads using React",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
